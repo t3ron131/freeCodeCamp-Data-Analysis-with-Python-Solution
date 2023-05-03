@@ -1,4 +1,4 @@
-# freecodecamp-data-analysis-with-python
+# freeCodeCamp: Data Analysis with Python (Solution)
 
 The solution to the course Data Analysis with Python in freeCodeCamp:
 
